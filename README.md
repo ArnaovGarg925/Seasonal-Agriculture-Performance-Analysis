@@ -42,5 +42,5 @@ jupyter notebook Seasonal_Agriculture_Performance_Analysis.ipynb
 
 ## Author
 
-**Arnav Garg**
+**Arnaov Garg**
 B.Tech CSE Core, SRM Institute of Science and Technology (SRMIST), Modinagar
